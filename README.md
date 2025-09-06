@@ -28,7 +28,7 @@ It provides an **ultra-smooth dark-themed UI** where you can upload any PDF, ask
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/Slidesense-PDF-Analyser.git
+git clone https://github.com/Arsalan692/Slidesense-PDF-Analyser.git
 cd Slidesense-PDF-Analyser
 ```
 
